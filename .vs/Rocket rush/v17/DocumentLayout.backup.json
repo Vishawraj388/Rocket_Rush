@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\projects\\Rocket rush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|e:\\unity\\projects\\rocket rush\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|E:\\unity\\projects\\Rocket rush\\assets\\scripts\\restartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|E:\\unity\\projects\\Rocket rush\\assets\\scripts\\quitapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quitapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|E:\\unity\\projects\\Rocket rush\\assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|E:\\unity\\projects\\Rocket rush\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3F5E1-A26B-5682-90C5-8E17120195B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestartGame.cs",
+              "DocumentMoniker": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\RestartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RestartGame.cs",
+              "ToolTip": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\RestartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RestartGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T11:43:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quitapplication.cs",
+              "DocumentMoniker": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Quitapplication.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quitapplication.cs",
+              "ToolTip": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Quitapplication.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quitapplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:49:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oscillator.cs",
+              "DocumentMoniker": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Oscillator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Oscillator.cs",
+              "ToolTip": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Oscillator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Oscillator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:17:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
+              "ToolTip": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:53:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "E:\\unity\\projects\\Rocket rush\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:48:38.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
