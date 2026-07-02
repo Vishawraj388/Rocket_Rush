@@ -11,7 +11,8 @@ Recordings/
 
 .vscode/
 .idea/
-
+.vs/
+.vsconfig
 *.csproj
 *.unityproj
 *.sln
