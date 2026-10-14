@@ -40,9 +40,7 @@ You can play the WebGL version here:
 * Restart functionality
 * Final "You Won!" screen
 
-## 📸 Screenshots
 
-Add gameplay screenshots here.
 
 ## 📖 What I Learned
 
